@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jeongho-K/Jeongho-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +18,10 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
+  
+### Industrial Engineering & Statistics Major
+- 🌱 I’m currently learning
+
+### Interest
+- Data Analytics
+- Machine Learning
